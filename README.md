@@ -1,0 +1,1 @@
+And here begins the simple_shell project. I'm the sole authorat this point in time. I have been researching how to tackle this and tomorrow I will tackle it using the checker because it isn't a walk in the park
